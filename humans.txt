@@ -8,6 +8,6 @@
 
 /* SITE */
 	Last update: 2012/08/11
-	Language: Dutch
+	Language: English
 	Doctype: HTML5
 	IDE: TextMate
