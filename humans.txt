@@ -1,0 +1,13 @@
+/* TEAM */
+	Web designer: Wouter De Loose
+	Twitter: @woutr_be
+	From: Hong Kong
+	Site: http://www.woutr.me
+
+/* THANKS */		
+
+/* SITE */
+	Last update: 2012/08/11
+	Language: Dutch
+	Doctype: HTML5
+	IDE: TextMate
